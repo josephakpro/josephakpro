@@ -10,8 +10,6 @@ MBA Business Analytics Student | Finance Graduate | Aspiring Data & Risk Analyst
 
 😄 I enjoy soccer, baking, and learning new languages
 
-You can reach me here : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/joseph-akpro-8673a3221//)
-
 ## 💻 Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
