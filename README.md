@@ -1,6 +1,7 @@
 ## Hi there, I'm Joseph Akpro 👋
 MBA Business Analytics Student | Finance Graduate | Aspiring Data & Risk Analyst
 
+
 📊 Passionate about data analytics and finance
 
 🔭 Currently working on business analytics and data science projects
