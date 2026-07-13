@@ -2,8 +2,6 @@
 MBA Business Analytics Student | Finance Graduate | Aspiring  Business / Data Analyst
 
 
-📊 Passionate about data analytics and finance
-
 🔭 Currently working on business analytics and data science projects
 
 📈 Interested in financial and sports analytics
