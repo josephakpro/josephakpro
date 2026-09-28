@@ -2,11 +2,11 @@
 MBA Business Analytics Student | Finance Graduate | Aspiring  Business / Data Analyst
 
 
-🔭 Currently working on business analytics and data science projects
+Currently working on business analytics and data science projects
 
-📈 Interested in financial and sports analytics
+Interested in financial and sports analytics
 
-😄 I enjoy soccer, baking, and learning new languages
+I enjoy soccer, baking, and learning new languages
 
 ## 💻 Tech Stack
 
